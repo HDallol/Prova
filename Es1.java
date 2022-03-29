@@ -71,7 +71,10 @@ public class Es1 extends JFrame{
 		super("Simulazione Atletica");
 
 
-
+		for(int i=0;i<10;i++) {
+			System.out.println("Se la vita fa schifo, perché sei ancora qui?");
+		}
+		
 
 		pos1 = new ImageIcon(f1.getPath());
 		pos2 = new ImageIcon(f2.getPath());
