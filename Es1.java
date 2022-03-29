@@ -61,6 +61,8 @@ public class Es1 extends JFrame{
 	int n = 15;
 	Color tema = new Color(0,234,56);
 
+	String modifica = "HELLO IO SONO UNA MODIFICA";
+	
 	File f1 = new File("frame1.png");
 	File f2 = new File("frame2.png");
 	File f3 = new File("frame3.png");
